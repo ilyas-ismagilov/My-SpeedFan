@@ -32,5 +32,7 @@ If I'm not too lazy, I'll add next:
    *Clickthrough option
    
    *Temperature logging over time
+
+   *Fix performance issues
    
    *Something else
