@@ -4,6 +4,8 @@ OMG! It's working! It's alive! But barely.
 
 I used Open Hardware Monitor, Libre Hardware Monitor libs.
 
+
+
 Working:
 
   Realtime CPU and GPU temperatures graph
@@ -14,6 +16,8 @@ Working:
   
   Movable window
   
+
+
 
 If I'm not too lazy, I'll add next:
 
